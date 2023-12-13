@@ -11,10 +11,9 @@ Multimodal POS Tagging
 <!-- PROJECT LOGO -->
 <br />
 
-<h3 align="center">Distribted Causal Discovery</h3>
+<h3 align="center">POSNet</h3>
 
   <p align="center">
-    Parallelized Causal Inference
     <br />
     <a href="https://github.com/BaraaAlJorf/POSnet"><strong>Explore the docs »</strong></a>
     <br />
@@ -109,9 +108,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Dmytro Zhylko - dz2449@nyu.edu, Baraa Al Jorf - baj321@nyu.edu
+ Baraa Al Jorf - baj321@nyu.edu, Sophie Juco - smj490@nyu.edu, Joel Marvin Tellis - jt4680@nyu.edu, Nirman Taterh - nt2613@nyu.edu
 
-Project Link: https://github.com/Zhylkaaa/distributed_causal_discovery
+Project Link: https://github.com/Zhylkaaa/distributed_causal_discovery](https://github.com/BaraaAlJorf/POSnet
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
