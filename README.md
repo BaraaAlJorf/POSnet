@@ -110,7 +110,7 @@ Don't forget to give the project a star! Thanks again!
 
  Baraa Al Jorf - baj321@nyu.edu, Sophie Juco - smj490@nyu.edu, Joel Marvin Tellis - jt4680@nyu.edu, Nirman Taterh - nt2613@nyu.edu
 
-Project Link: https://github.com/Zhylkaaa/distributed_causal_discovery](https://github.com/BaraaAlJorf/POSnet
+Project Link: https://github.com/BaraaAlJorf/POSnet
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
