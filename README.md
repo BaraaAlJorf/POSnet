@@ -54,7 +54,7 @@ Multimodal POS Tagging
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-We provide a framework for running the Peter-Clark (PC) algorithm in a paralellized fashion
+We provide a multimodal POS tagging framework for improved context awareness
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
